@@ -1,0 +1,14 @@
+{
+  "source": "IMWUT_llmehmi_v6.pptx",
+  "layout": "Original complete layout preserved",
+  "video_size": "960x540",
+  "video_codec": "H.264/AAC MP4",
+  "videos": [
+    "system-demo",
+    "generated-action",
+    "pickup-human",
+    "pickup-llm",
+    "human-design",
+    "llm-design"
+  ]
+}
